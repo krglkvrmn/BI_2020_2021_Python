@@ -21,8 +21,7 @@ The script can be run from command line with following arguments:
 
 ```bash
 git clone https://github.com/krglkvrmn/BI_2020-2021_Python.git
-cd BI_2020-2021_Python
-git checkout fastq-filtrator
+cd BI_2020-2021_Python/fastq-filtrator
 ```
 
 ### Launch script
