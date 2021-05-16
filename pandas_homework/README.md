@@ -14,8 +14,7 @@ Code and charts are located in **EDA.ipynb** jupyter notebook.
 
 ```bash
 git clone https://github.com/krglkvrmn/BI_2020-2021_Python.git
-cd BI_2020-2021_Python
-git checkout pandas_homework
+cd BI_2020-2021_Python/pandas_homework
 pip install -r requirements.txt
 ```
 

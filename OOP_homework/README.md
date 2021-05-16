@@ -10,8 +10,7 @@ In this homework I implemented *DNA* and *RNA* classes for work with biological 
 
 ```bash
 git clone https://github.com/krglkvrmn/BI_2020-2021_Python.git
-cd BI_2020-2021_Python
-git checkout OOP_homework
+cd BI_2020-2021_Python/OOP_homework
 ```
 
 ### Examples of usage
