@@ -15,7 +15,7 @@ START, END = int(sys.argv[1]), int(sys.argv[2])
 
 data = defaultdict(list)
 
-with open("results.csv", "a") as file_out:
+with open("raw_data.csv", "a") as file_out:
     # Iterate over anime_id which is unique identifier on myanimelist
     for anime_id in range(START, END):   # Random number much greater than possible total number of anime
         time.sleep(2)         # Avoid blocking due to high request rate
